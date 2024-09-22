@@ -7,3 +7,5 @@ Put master.txt on master branch, stage and commit
 7. Now update branch public 1 and public 2 with new master code in private
 8. Also update new master code on master
 9. Finally update all the code on the private branch
+//hello hii how are you 
+//irt is git assignment 4
